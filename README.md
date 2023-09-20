@@ -18,7 +18,7 @@ This repository contains a Jupyter Notebook that handles badge URLs stored in a 
 
 ```bash
 # Clone the repository
-git clone https://github.com/hitthecodelabs/My_Badge_Documentation.git
+git clone https://github.com/hitthecodelabs/Badge_Documentation.git
 
 # Navigate into the directory
 cd My_Badge_Documentation
@@ -34,7 +34,7 @@ Make sure you have a file named `badges.txt` in the same directory as the Jupyte
 Run all the cells in the notebook to generate HTML `<img>` tags for each unique badge and sort them alphabetically.
 
 ## Project Structure
-- `your_notebook.ipynb`: Jupyter Notebook that contains the code for badge processing.
+- `badges_script.ipynb`: Jupyter Notebook that contains the code for badge processing.
 - `badges.txt`: Text file containing badge URLs.
 
 ## Contributing
