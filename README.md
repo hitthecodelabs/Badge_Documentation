@@ -27,7 +27,7 @@ cd My_Badge_Documentation
 2. Open the Jupyter Notebook (badges_script.ipynb) in Jupyter Notebook or Jupyter Lab to proceed.
 
 
-## Installation
+## Usage
 
 Make sure you have a file named `badges.txt` in the same directory as the Jupyter Notebook. This `.txt` file should contain URLs for the badges you want to document.
 
